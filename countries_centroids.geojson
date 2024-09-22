@@ -1,0 +1,2827 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Fiji",
+                "country_code": "FJI",
+                "lon": 163.85316464458032,
+                "lat": -17.316309426382613
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.85316464458032,
+                    -17.316309426382613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Tanzania",
+                "country_code": "TZA",
+                "lon": 34.75298985475595,
+                "lat": -6.257732428506092
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75298985475595,
+                    -6.257732428506092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "W. Sahara",
+                "country_code": "SAH",
+                "lon": -12.13783111160779,
+                "lat": 24.291172960208623
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.13783111160779,
+                    24.291172960208623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Canada",
+                "country_code": "CAN",
+                "lon": -98.14238137209696,
+                "lat": 61.46907614534886
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.14238137209696,
+                    61.46907614534886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United States of America",
+                "country_code": "USA",
+                "lon": -112.59943591150449,
+                "lat": 45.70562800215186
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.59943591150449,
+                    45.70562800215186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Kazakhstan",
+                "country_code": "KAZ",
+                "lon": 67.2846109811001,
+                "lat": 48.19166075218232
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.2846109811001,
+                    48.19166075218232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Uzbekistan",
+                "country_code": "UZB",
+                "lon": 63.20363952823182,
+                "lat": 41.748602664652246
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.20363952823182,
+                    41.748602664652246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Papua New Guinea",
+                "country_code": "PNG",
+                "lon": 145.31757462782235,
+                "lat": -6.4516445146303445
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.31757462782235,
+                    -6.451644514630344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Indonesia",
+                "country_code": "IDN",
+                "lon": 117.42340756227354,
+                "lat": -2.2217379365205367
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.42340756227354,
+                    -2.221737936520537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Argentina",
+                "country_code": "ARG",
+                "lon": -65.17536077114173,
+                "lat": -35.44682148949512
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.17536077114173,
+                    -35.44682148949512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Chile",
+                "country_code": "CHL",
+                "lon": -71.52064394516432,
+                "lat": -39.04701430994843
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.52064394516432,
+                    -39.04701430994843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Dem. Rep. Congo",
+                "country_code": "COD",
+                "lon": 23.582955831479083,
+                "lat": -2.8502757110956667
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.582955831479083,
+                    -2.850275711095667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Somalia",
+                "country_code": "SOM",
+                "lon": 45.72670076723565,
+                "lat": 4.752347756504953
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.72670076723565,
+                    4.752347756504953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Kenya",
+                "country_code": "KEN",
+                "lon": 37.791555286661385,
+                "lat": 0.5959662521769523
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.791555286661385,
+                    0.595966252176952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Sudan",
+                "country_code": "SDN",
+                "lon": 29.862604012257922,
+                "lat": 15.990585003116717
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.862604012257922,
+                    15.990585003116717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Chad",
+                "country_code": "TCD",
+                "lon": 18.581329525332894,
+                "lat": 15.328867399839682
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.581329525332894,
+                    15.328867399839682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Haiti",
+                "country_code": "HTI",
+                "lon": -72.65801330535574,
+                "lat": 18.900700691843337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.65801330535574,
+                    18.900700691843337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Dominican Rep.",
+                "country_code": "DOM",
+                "lon": -70.46235845697531,
+                "lat": 18.884487087982258
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.46235845697531,
+                    18.884487087982258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russia",
+                "country_code": "RUS",
+                "lon": 96.80331818290101,
+                "lat": 61.96166349492294
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.80331818290101,
+                    61.96166349492294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bahamas",
+                "country_code": "BHS",
+                "lon": -77.92997080393513,
+                "lat": 25.51549172533661
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.92997080393513,
+                    25.51549172533661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Falkland Is.",
+                "country_code": "FLK",
+                "lon": -59.42097279311021,
+                "lat": -51.71322176551185
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.42097279311021,
+                    -51.71322176551185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Norway",
+                "country_code": "NOR",
+                "lon": 15.468119955206761,
+                "lat": 69.15685630975356
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.468119955206761,
+                    69.15685630975356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Greenland",
+                "country_code": "GRL",
+                "lon": -41.50018111492097,
+                "lat": 74.77048769398986
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.50018111492097,
+                    74.77048769398986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Fr. S. Antarctic Lands",
+                "country_code": "ATF",
+                "lon": 69.5315804704237,
+                "lat": -49.306454911671985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5315804704237,
+                    -49.306454911671985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Timor-Leste",
+                "country_code": "TLS",
+                "lon": 125.96630027368401,
+                "lat": -8.767760362467003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.96630027368401,
+                    -8.767760362467003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "South Africa",
+                "country_code": "ZAF",
+                "lon": 25.048013879861678,
+                "lat": -28.947033259979115
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.048013879861678,
+                    -28.947033259979115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Lesotho",
+                "country_code": "LSO",
+                "lon": 28.170105295170494,
+                "lat": -29.625290493692013
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.170105295170494,
+                    -29.625290493692013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "country_code": "MEX",
+                "lon": -102.5763495239869,
+                "lat": 23.935371902244835
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.5763495239869,
+                    23.935371902244835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Uruguay",
+                "country_code": "URY",
+                "lon": -56.003278666548475,
+                "lat": -32.780904365230825
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.003278666548475,
+                    -32.780904365230825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Brazil",
+                "country_code": "BRA",
+                "lon": -53.05434003576711,
+                "lat": -10.806773643498916
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.05434003576711,
+                    -10.806773643498916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bolivia",
+                "country_code": "BOL",
+                "lon": -64.64140560603113,
+                "lat": -16.72898701530584
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.64140560603113,
+                    -16.72898701530584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Peru",
+                "country_code": "PER",
+                "lon": -74.39180581684722,
+                "lat": -9.191562905134553
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.39180581684722,
+                    -9.191562905134553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Colombia",
+                "country_code": "COL",
+                "lon": -73.07773208697478,
+                "lat": 3.927213862709704
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.07773208697478,
+                    3.927213862709704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Panama",
+                "country_code": "PAN",
+                "lon": -80.10916483549376,
+                "lat": 8.530019388864652
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.10916483549376,
+                    8.530019388864652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Costa Rica",
+                "country_code": "CRI",
+                "lon": -84.17542309600948,
+                "lat": 9.965671127464528
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.17542309600948,
+                    9.965671127464528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Nicaragua",
+                "country_code": "NIC",
+                "lon": -85.02031850080252,
+                "lat": 12.848190428036988
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.02031850080252,
+                    12.848190428036988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Honduras",
+                "country_code": "HND",
+                "lon": -86.58996383801542,
+                "lat": 14.822947081652929
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.58996383801542,
+                    14.822947081652929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "El Salvador",
+                "country_code": "SLV",
+                "lon": -88.87290317032377,
+                "lat": 13.726091625794197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.87290317032377,
+                    13.726091625794197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Guatemala",
+                "country_code": "GTM",
+                "lon": -90.36945836053154,
+                "lat": 15.699360612026911
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.36945836053154,
+                    15.699360612026911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Belize",
+                "country_code": "BLZ",
+                "lon": -88.70342125299318,
+                "lat": 17.197089911451545
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.70342125299318,
+                    17.197089911451545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Venezuela",
+                "country_code": "VEN",
+                "lon": -66.16382727830238,
+                "lat": 7.162132267639002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.16382727830238,
+                    7.162132267639002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Guyana",
+                "country_code": "GUY",
+                "lon": -58.97120310856251,
+                "lat": 4.790225375174759
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.97120310856251,
+                    4.790225375174759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Suriname",
+                "country_code": "SUR",
+                "lon": -55.91145629952073,
+                "lat": 4.1200080317588865
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.91145629952073,
+                    4.120008031758887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "France",
+                "country_code": "FRA",
+                "lon": -2.876696699270548,
+                "lat": 42.46070432663376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.876696699270548,
+                    42.46070432663376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ecuador",
+                "country_code": "ECU",
+                "lon": -78.38416674608374,
+                "lat": -1.4547717055405804
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.38416674608374,
+                    -1.45477170554058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Puerto Rico",
+                "country_code": "PRI",
+                "lon": -66.47922227695507,
+                "lat": 18.2372245709719
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.47922227695507,
+                    18.2372245709719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Jamaica",
+                "country_code": "JAM",
+                "lon": -77.32425480164892,
+                "lat": 18.137636127868436
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.32425480164892,
+                    18.137636127868436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Cuba",
+                "country_code": "CUB",
+                "lon": -78.96068490970256,
+                "lat": 21.631751541025228
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.96068490970256,
+                    21.631751541025228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Zimbabwe",
+                "country_code": "ZWE",
+                "lon": 29.788548371892524,
+                "lat": -18.906987947858802
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.788548371892524,
+                    -18.906987947858802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Botswana",
+                "country_code": "BWA",
+                "lon": 23.773081465789428,
+                "lat": -22.099711378826413
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.773081465789428,
+                    -22.099711378826413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Namibia",
+                "country_code": "NAM",
+                "lon": 17.156168126194093,
+                "lat": -22.099776931731068
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.156168126194093,
+                    -22.099776931731068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Senegal",
+                "country_code": "SEN",
+                "lon": -14.50980278585943,
+                "lat": 14.354139988452022
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.50980278585943,
+                    14.354139988452022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mali",
+                "country_code": "MLI",
+                "lon": -3.543294339453343,
+                "lat": 17.267772061700715
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.543294339453343,
+                    17.267772061700715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mauritania",
+                "country_code": "MRT",
+                "lon": -10.326396925234992,
+                "lat": 20.20926720635376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.326396925234992,
+                    20.20926720635376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Benin",
+                "country_code": "BEN",
+                "lon": 2.337377553496156,
+                "lat": 9.647430780663699
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.337377553496156,
+                    9.647430780663699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Niger",
+                "country_code": "NER",
+                "lon": 9.324427099857923,
+                "lat": 17.345552814745542
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.324427099857923,
+                    17.345552814745542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Nigeria",
+                "country_code": "NGA",
+                "lon": 7.995127754089786,
+                "lat": 9.548318418209965
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.995127754089786,
+                    9.548318418209965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Cameroon",
+                "country_code": "CMR",
+                "lon": 12.611551546501774,
+                "lat": 5.663095287992696
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.611551546501774,
+                    5.663095287992696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Togo",
+                "country_code": "TGO",
+                "lon": 0.9964039436703582,
+                "lat": 8.439541954669616
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.996403943670358,
+                    8.439541954669616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ghana",
+                "country_code": "GHA",
+                "lon": -1.2369685557063992,
+                "lat": 7.928651813099648
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.236968555706399,
+                    7.928651813099648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Côte d'Ivoire",
+                "country_code": "CIV",
+                "lon": -5.6120436452252225,
+                "lat": 7.5537550070104915
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.612043645225222,
+                    7.553755007010492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Guinea",
+                "country_code": "GIN",
+                "lon": -11.060853741185456,
+                "lat": 10.44827287727134
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.060853741185456,
+                    10.44827287727134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Guinea-Bissau",
+                "country_code": "GNB",
+                "lon": -15.110623751667879,
+                "lat": 12.022704382325685
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.110623751667879,
+                    12.022704382325685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Liberia",
+                "country_code": "LBR",
+                "lon": -9.410836154371117,
+                "lat": 6.431619862252993
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.410836154371117,
+                    6.431619862252993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Sierra Leone",
+                "country_code": "SLE",
+                "lon": -11.795257428559948,
+                "lat": 8.53035372615305
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.795257428559948,
+                    8.53035372615305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Burkina Faso",
+                "country_code": "BFA",
+                "lon": -1.77653745205594,
+                "lat": 12.311650494136712
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.77653745205594,
+                    12.311650494136712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Central African Rep.",
+                "country_code": "CAF",
+                "lon": 20.374347291243915,
+                "lat": 6.5427787059213145
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.374347291243915,
+                    6.542778705921314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Congo",
+                "country_code": "COG",
+                "lon": 15.13446176741353,
+                "lat": -0.8378010872252886
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.13446176741353,
+                    -0.837801087225289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Gabon",
+                "country_code": "GAB",
+                "lon": 11.687751174902044,
+                "lat": -0.6470481398040288
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.687751174902044,
+                    -0.647048139804029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Eq. Guinea",
+                "country_code": "GNQ",
+                "lon": 10.366031325064027,
+                "lat": 1.6458643199600753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.366031325064027,
+                    1.645864319960075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Zambia",
+                "country_code": "ZMB",
+                "lon": 27.727591918760577,
+                "lat": -13.395067553524187
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.727591918760577,
+                    -13.395067553524187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Malawi",
+                "country_code": "MWI",
+                "lon": 34.193605326922366,
+                "lat": -13.172834992341919
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.193605326922366,
+                    -13.172834992341919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mozambique",
+                "country_code": "MOZ",
+                "lon": 35.47261597864435,
+                "lat": -17.230448975659677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.47261597864435,
+                    -17.230448975659677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "eSwatini",
+                "country_code": "SWZ",
+                "lon": 31.39525590206532,
+                "lat": -26.48985528852001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.39525590206532,
+                    -26.48985528852001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Angola",
+                "country_code": "AGO",
+                "lon": 17.470572552313456,
+                "lat": -12.245869036133186
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.470572552313456,
+                    -12.245869036133186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Burundi",
+                "country_code": "BDI",
+                "lon": 29.91389229542573,
+                "lat": -3.3773910753554657
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91389229542573,
+                    -3.377391075355466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Israel",
+                "country_code": "ISR",
+                "lon": 35.003851206429005,
+                "lat": 31.4849193900197
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.003851206429005,
+                    31.4849193900197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Lebanon",
+                "country_code": "LBN",
+                "lon": 35.87098632001643,
+                "lat": 33.91182720781994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.87098632001643,
+                    33.91182720781994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Madagascar",
+                "country_code": "MDG",
+                "lon": 46.69117091471639,
+                "lat": -19.356114077828778
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.69117091471639,
+                    -19.356114077828778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Palestine",
+                "country_code": "PSX",
+                "lon": 35.27331962289024,
+                "lat": 31.94113662241515
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.27331962289024,
+                    31.94113662241515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Gambia",
+                "country_code": "GMB",
+                "lon": -15.431872807730837,
+                "lat": 13.47533435870166
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.431872807730837,
+                    13.47533435870166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Tunisia",
+                "country_code": "TUN",
+                "lon": 9.534716120695835,
+                "lat": 34.172939036882376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.534716120695835,
+                    34.172939036882376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Algeria",
+                "country_code": "DZA",
+                "lon": 2.5980477916183444,
+                "lat": 28.185481278657537
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.598047791618344,
+                    28.185481278657537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Jordan",
+                "country_code": "JOR",
+                "lon": 36.77945490632519,
+                "lat": 31.245490584748417
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.77945490632519,
+                    31.245490584748417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Arab Emirates",
+                "country_code": "ARE",
+                "lon": 54.20671476159633,
+                "lat": 23.86863365334761
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.20671476159633,
+                    23.86863365334761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Qatar",
+                "country_code": "QAT",
+                "lon": 51.1835025789133,
+                "lat": 25.32185097420669
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.1835025789133,
+                    25.32185097420669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Kuwait",
+                "country_code": "KWT",
+                "lon": 47.600098887626416,
+                "lat": 29.307266634033564
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.600098887626416,
+                    29.307266634033564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Iraq",
+                "country_code": "IRQ",
+                "lon": 43.75691096461423,
+                "lat": 33.03682096372491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.75691096461423,
+                    33.03682096372491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Oman",
+                "country_code": "OMN",
+                "lon": 56.09867281997542,
+                "lat": 20.611174374229545
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.09867281997542,
+                    20.611174374229545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vanuatu",
+                "country_code": "VUT",
+                "lon": 167.07375126822677,
+                "lat": -15.542677057554927
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.07375126822677,
+                    -15.542677057554927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Cambodia",
+                "country_code": "KHM",
+                "lon": 104.87608532525192,
+                "lat": 12.684728629393506
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.87608532525192,
+                    12.684728629393506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Thailand",
+                "country_code": "THA",
+                "lon": 101.00613354626108,
+                "lat": 15.01697499141648
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.00613354626108,
+                    15.01697499141648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Laos",
+                "country_code": "LAO",
+                "lon": 103.75025989504465,
+                "lat": 18.444978089036088
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.75025989504465,
+                    18.444978089036088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Myanmar",
+                "country_code": "MMR",
+                "lon": 96.50584094206161,
+                "lat": 21.016999873773827
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.50584094206161,
+                    21.016999873773827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "VNM",
+                "lon": 106.28584079705195,
+                "lat": 16.657937753254938
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.28584079705195,
+                    16.657937753254938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "North Korea",
+                "country_code": "PRK",
+                "lon": 127.16501590888961,
+                "lat": 40.14302033650105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.16501590888961,
+                    40.14302033650105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "South Korea",
+                "country_code": "KOR",
+                "lon": 127.8213171283307,
+                "lat": 36.42759860415487
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.8213171283307,
+                    36.42759860415487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mongolia",
+                "country_code": "MNG",
+                "lon": 102.94640620846634,
+                "lat": 46.82368112626357
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.94640620846634,
+                    46.82368112626357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "country_code": "IND",
+                "lon": 79.59370376325381,
+                "lat": 22.92500640740852
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59370376325381,
+                    22.92500640740852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "country_code": "BGD",
+                "lon": 90.26792827719598,
+                "lat": 23.83946179534406
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.26792827719598,
+                    23.83946179534406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bhutan",
+                "country_code": "BTN",
+                "lon": 90.4724248062037,
+                "lat": 27.427968649102027
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4724248062037,
+                    27.427968649102027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Nepal",
+                "country_code": "NPL",
+                "lon": 84.01317367692529,
+                "lat": 28.23944001904935
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.01317367692529,
+                    28.23944001904935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "country_code": "PAK",
+                "lon": 69.41399806318127,
+                "lat": 29.973460025547393
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.41399806318127,
+                    29.973460025547393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Afghanistan",
+                "country_code": "AFG",
+                "lon": 66.08669022192831,
+                "lat": 33.85639928169076
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.08669022192831,
+                    33.85639928169076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Tajikistan",
+                "country_code": "TJK",
+                "lon": 71.03443504896113,
+                "lat": 38.58308146421082
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.03443504896113,
+                    38.58308146421082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Kyrgyzstan",
+                "country_code": "KGZ",
+                "lon": 74.62040481092558,
+                "lat": 41.50689371318262
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.62040481092558,
+                    41.50689371318262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Turkmenistan",
+                "country_code": "TKM",
+                "lon": 59.27543026236141,
+                "lat": 39.09124018017583
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.27543026236141,
+                    39.09124018017583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Iran",
+                "country_code": "IRN",
+                "lon": 54.285451496891426,
+                "lat": 32.51891731762539
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.285451496891426,
+                    32.51891731762539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Syria",
+                "country_code": "SYR",
+                "lon": 38.54423941961137,
+                "lat": 35.012614281129
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.54423941961137,
+                    35.012614281129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Armenia",
+                "country_code": "ARM",
+                "lon": 45.00029001101479,
+                "lat": 40.21660761230143
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.00029001101479,
+                    40.21660761230143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Sweden",
+                "country_code": "SWE",
+                "lon": 16.59626584684802,
+                "lat": 62.811484968080336
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59626584684802,
+                    62.811484968080336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Belarus",
+                "country_code": "BLR",
+                "lon": 27.98135261544803,
+                "lat": 53.50634479481114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.98135261544803,
+                    53.50634479481114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "country_code": "UKR",
+                "lon": 31.229122070266495,
+                "lat": 49.14882260840351
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.229122070266495,
+                    49.14882260840351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "country_code": "POL",
+                "lon": 19.31101430844868,
+                "lat": 52.14826021933187
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.31101430844868,
+                    52.14826021933187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Austria",
+                "country_code": "AUT",
+                "lon": 14.076158884337072,
+                "lat": 47.6139487927463
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.076158884337072,
+                    47.6139487927463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Hungary",
+                "country_code": "HUN",
+                "lon": 19.357628627745918,
+                "lat": 47.19995117195427
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.357628627745918,
+                    47.19995117195427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Moldova",
+                "country_code": "MDA",
+                "lon": 28.41048279080328,
+                "lat": 47.20367642606752
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.41048279080328,
+                    47.20367642606752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Romania",
+                "country_code": "ROU",
+                "lon": 24.943252494635377,
+                "lat": 45.857101035738005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.943252494635377,
+                    45.857101035738005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Lithuania",
+                "country_code": "LTU",
+                "lon": 23.88064027584349,
+                "lat": 55.284319484766066
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.88064027584349,
+                    55.284319484766066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Latvia",
+                "country_code": "LVA",
+                "lon": 24.833296149803438,
+                "lat": 56.80717513427924
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.833296149803438,
+                    56.80717513427924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Estonia",
+                "country_code": "EST",
+                "lon": 25.824725613026608,
+                "lat": 58.643695426630906
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.824725613026608,
+                    58.643695426630906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Germany",
+                "country_code": "DEU",
+                "lon": 10.288485092742851,
+                "lat": 51.13372269040778
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.288485092742851,
+                    51.13372269040778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bulgaria",
+                "country_code": "BGR",
+                "lon": 25.19511095327711,
+                "lat": 42.7531187620217
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.19511095327711,
+                    42.7531187620217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Greece",
+                "country_code": "GRC",
+                "lon": 22.71981344709506,
+                "lat": 39.06671589971396
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.71981344709506,
+                    39.06671589971396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Turkey",
+                "country_code": "TUR",
+                "lon": 35.116900150938385,
+                "lat": 39.0683719406147
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.116900150938385,
+                    39.0683719406147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Albania",
+                "country_code": "ALB",
+                "lon": 20.03242643144321,
+                "lat": 41.141353306048785
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.03242643144321,
+                    41.141353306048785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Croatia",
+                "country_code": "HRV",
+                "lon": 16.566189771645533,
+                "lat": 45.01623399593114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.566189771645533,
+                    45.01623399593114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Switzerland",
+                "country_code": "CHE",
+                "lon": 8.118300613385486,
+                "lat": 46.79173768366762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.118300613385486,
+                    46.79173768366762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Luxembourg",
+                "country_code": "LUX",
+                "lon": 5.965223432343999,
+                "lat": 49.76570507415103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.965223432343999,
+                    49.76570507415103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Belgium",
+                "country_code": "BEL",
+                "lon": 4.580834113854935,
+                "lat": 50.65244095902296
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.580834113854935,
+                    50.65244095902296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Netherlands",
+                "country_code": "NLD",
+                "lon": 5.512217100965399,
+                "lat": 52.298700374441786
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512217100965399,
+                    52.298700374441786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Portugal",
+                "country_code": "PRT",
+                "lon": -8.055765588295687,
+                "lat": 39.63404977497817
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.055765588295687,
+                    39.63404977497817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Spain",
+                "country_code": "ESP",
+                "lon": -3.6170206023873743,
+                "lat": 40.348656106226734
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.617020602387374,
+                    40.348656106226734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ireland",
+                "country_code": "IRL",
+                "lon": -8.010236544877012,
+                "lat": 53.18059120995006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.010236544877012,
+                    53.18059120995006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "New Caledonia",
+                "country_code": "NCL",
+                "lon": 165.53447460087543,
+                "lat": -21.26135761252651
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.53447460087543,
+                    -21.26135761252651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Solomon Is.",
+                "country_code": "SLB",
+                "lon": 159.9666154474296,
+                "lat": -8.852497470848528
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    159.9666154474296,
+                    -8.852497470848528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "New Zealand",
+                "country_code": "NZL",
+                "lon": 172.70192594405583,
+                "lat": -41.662578757158705
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70192594405583,
+                    -41.662578757158705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Australia",
+                "country_code": "AUS",
+                "lon": 134.50277547536606,
+                "lat": -25.730654779726088
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.50277547536606,
+                    -25.730654779726088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Sri Lanka",
+                "country_code": "LKA",
+                "lon": 80.66723574931648,
+                "lat": 7.700534417248105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.66723574931648,
+                    7.700534417248105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "country_code": "CHN",
+                "lon": 103.88361230063238,
+                "lat": 36.55506653185868
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.88361230063238,
+                    36.55506653185868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Taiwan",
+                "country_code": "TWN",
+                "lon": 120.97480073748623,
+                "lat": 23.740964979784938
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97480073748623,
+                    23.740964979784938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Italy",
+                "country_code": "ITA",
+                "lon": 12.140788372235868,
+                "lat": 42.75118305296426
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.140788372235868,
+                    42.75118305296426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Denmark",
+                "country_code": "DNK",
+                "lon": 9.876372937675002,
+                "lat": 56.06393446179454
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.876372937675002,
+                    56.06393446179454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "country_code": "GBR",
+                "lon": -2.8531353951805554,
+                "lat": 53.91477348053705
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.853135395180555,
+                    53.91477348053705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Iceland",
+                "country_code": "ISL",
+                "lon": -18.761028770831768,
+                "lat": 65.07427633529105
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.761028770831768,
+                    65.07427633529105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Azerbaijan",
+                "country_code": "AZE",
+                "lon": 47.553909558006055,
+                "lat": 40.22069054766168
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.553909558006055,
+                    40.22069054766168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Georgia",
+                "country_code": "GEO",
+                "lon": 43.48154265409026,
+                "lat": 42.16201501415301
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.48154265409026,
+                    42.16201501415301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "country_code": "PHL",
+                "lon": 122.90267236988684,
+                "lat": 11.76379936229767
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.90267236988684,
+                    11.76379936229767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Malaysia",
+                "country_code": "MYS",
+                "lon": 109.6981484486297,
+                "lat": 3.725588425773715
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.6981484486297,
+                    3.725588425773715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Brunei",
+                "country_code": "BRN",
+                "lon": 114.91510877393951,
+                "lat": 4.690250542520635
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.91510877393951,
+                    4.690250542520635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Slovenia",
+                "country_code": "SVN",
+                "lon": 14.938152320795732,
+                "lat": 46.12542205901039
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.938152320795732,
+                    46.12542205901039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Finland",
+                "country_code": "FIN",
+                "lon": 26.211764610296353,
+                "lat": 64.50409403963651
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.211764610296353,
+                    64.50409403963651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Slovakia",
+                "country_code": "SVK",
+                "lon": 19.507657147433708,
+                "lat": 48.7267113517275
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.507657147433708,
+                    48.7267113517275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Czechia",
+                "country_code": "CZE",
+                "lon": 15.334558102365815,
+                "lat": 49.775245294369
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.334558102365815,
+                    49.775245294369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Eritrea",
+                "country_code": "ERI",
+                "lon": 38.67818692786484,
+                "lat": 15.427276751412931
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.67818692786484,
+                    15.427276751412931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Japan",
+                "country_code": "JPN",
+                "lon": 138.0649621327077,
+                "lat": 37.663110811704634
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0649621327077,
+                    37.663110811704634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Paraguay",
+                "country_code": "PRY",
+                "lon": -58.387387833505706,
+                "lat": -23.248041946292087
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.387387833505706,
+                    -23.248041946292087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Yemen",
+                "country_code": "YEM",
+                "lon": 47.535044758543485,
+                "lat": 15.913231950143004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.535044758543485,
+                    15.913231950143004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Saudi Arabia",
+                "country_code": "SAU",
+                "lon": 44.51636376826477,
+                "lat": 24.123289839105293
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.51636376826477,
+                    24.123289839105293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "N. Cyprus",
+                "country_code": "CYN",
+                "lon": 33.5582859592249,
+                "lat": 35.273957681259716
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5582859592249,
+                    35.273957681259716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Cyprus",
+                "country_code": "CYP",
+                "lon": 33.03955380295407,
+                "lat": 34.90706085094344
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.03955380295407,
+                    34.90706085094344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Morocco",
+                "country_code": "MAR",
+                "lon": -8.420479544549693,
+                "lat": 29.885394698302058
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.420479544549693,
+                    29.885394698302058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Egypt",
+                "country_code": "EGY",
+                "lon": 29.844461513124415,
+                "lat": 26.50661999974957
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.844461513124415,
+                    26.50661999974957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Libya",
+                "country_code": "LBY",
+                "lon": 17.974352779160352,
+                "lat": 26.997460407020338
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.974352779160352,
+                    26.997460407020338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ethiopia",
+                "country_code": "ETH",
+                "lon": 39.551255792937745,
+                "lat": 8.653999188132575
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.551255792937745,
+                    8.653999188132575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Djibouti",
+                "country_code": "DJI",
+                "lon": 42.4980197360445,
+                "lat": 11.773044395533926
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.4980197360445,
+                    11.773044395533926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Somaliland",
+                "country_code": "SOL",
+                "lon": 46.23074953490769,
+                "lat": 9.757971805222988
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.23074953490769,
+                    9.757971805222988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Uganda",
+                "country_code": "UGA",
+                "lon": 32.35755031998686,
+                "lat": 1.2954855035097297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.35755031998686,
+                    1.29548550350973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Rwanda",
+                "country_code": "RWA",
+                "lon": 29.91896392224289,
+                "lat": -2.0135144658341346
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.91896392224289,
+                    -2.013514465834135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bosnia and Herz.",
+                "country_code": "BIH",
+                "lon": 17.816883270390086,
+                "lat": 44.1807677629747
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.816883270390086,
+                    44.1807677629747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Macedonia",
+                "country_code": "MKD",
+                "lon": 21.697903375280845,
+                "lat": 41.60592964714007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.697903375280845,
+                    41.60592964714007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Serbia",
+                "country_code": "SRB",
+                "lon": 20.819651926382583,
+                "lat": 44.23303653365162
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.819651926382583,
+                    44.23303653365162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Montenegro",
+                "country_code": "MNE",
+                "lon": 19.2861817215929,
+                "lat": 42.78903960655908
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2861817215929,
+                    42.78903960655908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Kosovo",
+                "country_code": "KOS",
+                "lon": 20.895355721342227,
+                "lat": 42.579367131816994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.895355721342227,
+                    42.579367131816994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Trinidad and Tobago",
+                "country_code": "TTO",
+                "lon": -61.33036691444967,
+                "lat": 10.428237089201879
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.33036691444967,
+                    10.428237089201879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "S. Sudan",
+                "country_code": "SDS",
+                "lon": 30.198617582461907,
+                "lat": 7.292890133516845
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.198617582461907,
+                    7.292890133516845
+                ]
+            }
+        }
+    ]
+}
